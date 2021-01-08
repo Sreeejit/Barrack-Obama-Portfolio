@@ -1,0 +1,13 @@
+img {Width:200px; height:250px;}
+body {background: 
+#34eb3a
+; text-align:center }
+h1 
+{border: dashed;}
+p {border: dashed;}
+#section1 { height:500px;}
+h3 {font-family: 'Bungee Outline', cursive;}
+.link{float: left; margin-left: 10px; background-color: lavender; padding-top: 10px; padding-bottom:10px; padding-left: 10px; padding-right: 5px}
+ul {right: 10px; list-style: none; position:fixed; background-color: gold}
+.link:hover {background-color:#50C878}
+
